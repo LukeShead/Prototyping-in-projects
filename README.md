@@ -26,23 +26,3 @@ Some tools for prototyping add functionality by giving the developer a safe spac
 Another example is the software called “prottapp”, this website allows for UI design to be done within the boundaries of an IOS or android system. It provides screen mockups, website layouts, desktop software prototyping examples and allows such functionality as interactive UI prototyping in order to help a developer craft a rough image that is also functionable in order to get a good idea of what needs to be done with the UI.
 
 As well as this there are websites like “Repl.it”, this is a website that allows access to a coding space and API set to whatever language suits the user, the website does not support images however text based code can be tested, debugged and ran through a comprehensive debugging system and syntax highlighting for whatever language the developer has chosen. This website allows many different developers to get an early version of their project without having any forms of imagery. This allows projects to be planned to make sure the software that is being designed can work and function properly in order to have a strong foundation for a project to be developed.
-
-### 1.3 Different types of testing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
